@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "NRF52840-DONGLE")(type "KiCad")(uri "${KIPRJMOD}/../shared_libraries/NRF52840-DONGLE")(options "")(descr ""))
+  (lib (name "GateronLP")(type "KiCad")(uri "${KIPRJMOD}/../shared_libraries/GateronLP")(options "")(descr ""))
+  (lib (name "Misc")(type "KiCad")(uri "${KIPRJMOD}/../shared_libraries/Misc")(options "")(descr ""))
 )
